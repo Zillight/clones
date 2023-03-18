@@ -6,7 +6,7 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
-    margin-bottom: 20px;
+    margin-bottom: 25px;
 }
 
 .search-input {
@@ -14,6 +14,8 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
-    line-height: 24px;
-
+    line-height: 40px;
+    padding: 10px 30px;
+    border: 1px solid #dfe1e5;
+    border-radius: 25px;
 }
